@@ -5,7 +5,9 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate Front-End Developer with 2 years of experience, specializing in creating engaging and intuitive user interfaces. My expertise lies in front-end technologies such as React, where I focus on building responsive and user-friendly web applications. In addition to my development skills, I have a strong interest in UX/UI design, allowing me to craft seamless user experiences that prioritize usability and aesthetics. My goal is to leverage my skills to deliver innovative solutions that not only meet business objectives but also enhance user satisfaction.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated Front-End Developer with 2 years of experience in crafting efficient and user-friendly web applications. My expertise lies in technologies such as React, where I focus on creating seamless user interfaces that enhance user experiences. My journey in web development began with a passion for design and usability, driving me to delve into UX/UI principles alongside my technical skills.
+
+My commitment to continuous learning keeps me adaptable to new technologies and design trends. Outside of coding, I enjoy staying active, exploring innovative tools, and contributing to open-source projects to further refine my skills.`;
 
 export const EXPERIENCES = [
   {
