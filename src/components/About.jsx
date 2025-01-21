@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutImg from '../assets/about.jpg'
+import aboutImg from '../assets/tonderaiLastProfile.png'
 import { ABOUT_TEXT } from '../constants';
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
         </div>
         <div className='w-full lg:w-1/2'>
              <div className='flex justify-center lg:justify-start'>
-                <p>{ABOUT_TEXT}</p>
+                <p className='my-2 max-w-xl py-6'>{ABOUT_TEXT}</p>
              </div>
         </div>
       </div>
